@@ -63,7 +63,7 @@
 <style lang="scss">
   body {
     background: #ffff55;
-    color: #4900c2;
+    color: #000;
     font-family: 'Courier New';
     font-size: 12px;
     margin: 0;
@@ -95,6 +95,6 @@
   [landingimg] {
     width: 100%;
     height: 48vh;
-    background-color: #4900c2;
+    background-color: #000;
   }
 </style>
